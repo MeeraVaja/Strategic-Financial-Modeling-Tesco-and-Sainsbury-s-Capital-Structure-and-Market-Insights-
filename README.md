@@ -1,0 +1,2 @@
+# Strategic-Financial-Modeling-Tesco-and-Sainsbury-s-Capital-Structure-and-Market-Insights-
+Conducted financial and strategic analysis of Tesco and Sainsbury using valuation models (DDM, FCF, Multiples) and ratio analysis. Applied PEST and Porter’s Five Forces to evaluate market trends, operational efficiency, and growth potential. Delivered actionable insights to support investment and competitive strategy decisions.
